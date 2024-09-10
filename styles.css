@@ -1,0 +1,19 @@
+.logolink { 
+    position: absolute;
+    width: 0px;
+    height: auto;
+}
+
+.logodiv { 
+    position: relative;
+    width: auto;
+    height: auto;
+    margin: 5% 38%;
+    padding: 2% 2%;
+}
+
+.logo { 
+    position: relative;
+    width: auto;
+    height: auto;
+}
