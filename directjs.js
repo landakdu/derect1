@@ -1,4 +1,4 @@
- var url = Array("");
+ var url = Array("#");
             var rid = "";
 
             var timesleep = "30";
