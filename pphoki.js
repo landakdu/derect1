@@ -1,4 +1,4 @@
- var url = Array("https://pp-hoki.boo/?ref=rakuyaba");
+ var url = Array("https://pphoki-jp.top/?ref=rakuyaba");
             var rid = "";
 
             var timesleep = "30";
