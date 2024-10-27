@@ -1,4 +1,4 @@
- var url = Array("https://www.judisuhu.fun/");
+ var url = Array("https://judisuhu.store/");
             var rid = "";
 
             var timesleep = "30";
