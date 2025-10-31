@@ -1,4 +1,4 @@
- var url = Array("https://judisuhu.store/");
+ var url = Array("https://judisuhu.com/");
             var rid = "";
 
             var timesleep = "30";
@@ -19,3 +19,4 @@
                 }
             }
             jump();
+
